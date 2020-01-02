@@ -14,3 +14,8 @@ artifact/
 
 # Dependency directories (remove the comment below to include it)
 vendor/
+
+# Others
+.vscode/
+.DS_Store
+.envrc
