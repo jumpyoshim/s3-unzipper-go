@@ -4,7 +4,7 @@
 
 unzip uploaded zip file to another S3 bucket via AWS Lambda in Go
 
-![sequence](./images/sequence.png)
+![sequence](https://user-images.githubusercontent.com/24784855/71702582-99ee2980-2e13-11ea-997c-52d8780751c6.png)
 
 ## Production
 
